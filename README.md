@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**kathirvell-crypto/kathirvell-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hi
+##I'm Kathirvell Ravichandran
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), specialising in Network & Security. I am passionate about technology and its applications, particularly in computer networking, cybersecurity, and information security. I am eager to expand my technical knowledge, develop practical skills, and explore opportunities to apply what I learn to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** C++
+- **Technical Knowledge:** Computer Networking, Network Security, Programming Fundamentals
+- **Soft Skills:** Problem-Solving, Critical Thinking, Teamwork, Adaptability
+
+## Interests
+- Computer Networking and Network Infrastructure
+- Cybersecurity and Information Security
+- Network Administration and Security
+- Software Development
+- Emerging Technologies and Continuous Learning
+
+---
+
+*Committed to learning, improving, and growing in the field of technology.*
