@@ -133,14 +133,3 @@ My goal is to continuously expand my technical expertise and gain practical expe
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:003B70,100:020024&height=110&section=footer" width="100%" />
 </p>
-  
-
-
-
-<p align="center">
-  <i>"Think logically. Build intelligently. Secure digitally."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:003B70,100:020024&height=110&section=footer" width="100%" />
-</p>
