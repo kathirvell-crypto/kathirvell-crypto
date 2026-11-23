@@ -16,7 +16,6 @@ I am a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), sp
 - Software Development
 - Emerging Technologies and Continuous Learning
 
-
 <!-- CYBERSECURITY PROFILE README -->
 
 <p align="center">
