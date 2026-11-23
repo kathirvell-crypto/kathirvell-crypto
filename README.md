@@ -16,6 +16,7 @@ I am a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), sp
 - Software Development
 - Emerging Technologies and Continuous Learning
 
+
 <!-- CYBERSECURITY PROFILE README -->
 
 <p align="center">
@@ -124,6 +125,17 @@ My goal is to continuously expand my technical expertise and gain practical expe
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ACCESS+GRANTED...;KEEP+LEARNING.+KEEP+BUILDING.;SECURE+THE+DIGITAL+FUTURE." />
 </p>
+
+<p align="center">
+  <i>"Think logically. Build intelligently. Secure digitally."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:003B70,100:020024&height=110&section=footer" width="100%" />
+</p>
+  
+
+
 
 <p align="center">
   <i>"Think logically. Build intelligently. Secure digitally."</i>
